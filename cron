@@ -1,0 +1,1 @@
+0 */3 * * * /usr/bin/python3 /home/nick/auto_login/login.py >> cron.log 2>&1
